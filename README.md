@@ -21,6 +21,8 @@ In this project you'll take this crypto currency tracker app and build two custo
 * [ ] Download project dependencies by running `npm install`
 * [ ] Start up the app using `npm start`
 
+
+[comment]: <> (HERE!)
 ### Task 2: Project Requirements
 #### Build a useDarkMode hook
 * [ ] Create a new folder called `hooks.`
